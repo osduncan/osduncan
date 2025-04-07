@@ -11,8 +11,8 @@ Pursuing a degree in international relations and business data analytics. Curren
 
 - **Computer Information Systems** 💻 
   Building a technical foundation in databases, systems thinking, and analytics tools.
-
-  - **Business** 🩰  
+  
+- **Business** 🩰  
   Studying organisational strategy, global markets, and the role of innovation and technology in shaping modern enterprises.
 
 ## 🧰 Tools & Skills
