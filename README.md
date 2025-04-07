@@ -3,7 +3,7 @@ Pursuing a degree in international relations and business data analytics. Curren
 
 ## 📚 Academic Focus
 
-- **International Relations** 🌐
+- **International Relations** 🕊️
   Exploring global governance, diplomacy, and the evolving dynamics of power.
 
 - **Data Analytics & Business Intelligence** 📊
