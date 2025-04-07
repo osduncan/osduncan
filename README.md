@@ -1,16 +1,19 @@
 # 🌸✨ Hi, I'm Livvy! ✨🌸
-Currently studying abroad at the University of Manchester. Pursuing a degree in international relations and business data analytics.
+Pursuing a degree in international relations and business data analytics. Currently studying abroad at The University of Manchester. 
 
 ## 📚 Academic Focus
 
-- **International Relations**  
+- **International Relations** 🌐
   Exploring global governance, diplomacy, and the evolving dynamics of power.
 
-- **Data Analytics & Business Intelligence**  
+- **Data Analytics & Business Intelligence** 📊
   Learning to interpret, visualise, and communicate data that matters.
 
-- **Computer Information Systems**  
+- **Computer Information Systems** 💻 
   Building a technical foundation in databases, systems thinking, and analytics tools.
+
+  - **Business** 🩰  
+  Studying organisational strategy, global markets, and the role of innovation and technology in shaping modern enterprises.
 
 ## 🧰 Tools & Skills
 
