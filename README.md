@@ -1,5 +1,5 @@
 # 🌸✨ Hi, I'm Livvy! ✨🌸
-Third-year international relations and business data analytics student at Arizona State University, currently studying abroad in Manchester 🇬🇧!
+Currently studying abroad at the University of Manchester. Pursuing a degree in international relations and business data analytics.
 
 ## 📚 Academic Focus
 
